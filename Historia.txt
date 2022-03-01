@@ -3,6 +3,7 @@ Esta es la historia de Yahir Aponte
 Yahir tiene 33 años y nació en Colombia
 Viviendo en todo el mundo
 
+Aprendiendo Git y GitHub con el team Platzi
 
 Apontico19 es una persona que contribuye en este proyecto de open source y nació en internet
 
