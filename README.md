@@ -1,7 +1,12 @@
 # Hiperblog
 
 - Este es un curso de Git y GitHub de Platzi
+<<<<<<< HEAD
 
+=======
+- Esta línea es dedicada a la práctica de Cherry-pick
+- Segundo commit para cherry
+>>>>>>> 8c5c170 (segundo commit para cherry)
 
 
 
