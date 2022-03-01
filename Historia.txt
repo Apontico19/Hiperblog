@@ -7,6 +7,8 @@ Aprendiendo Git y GitHub con el team Platzi
 
 Apontico19 es una persona que contribuye en este proyecto de open source y nació en internet
 
+Este es un primer experimento para hacer Rebase
+
 Mañana nos enfocaremos en su vida laboral
 
 Una linea dedidicada al módulo de REBASE en Git como práctica
