@@ -1,6 +1,7 @@
 # Hiperblog
 
 - Este es un curso de Git y GitHub de Platzi
+- Esta línea es dedicada a la práctica de Cherry-pick
 
 
 
